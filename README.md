@@ -59,6 +59,7 @@ Marker-controlled Watershed:
 ---
 
 ## Project Structure
+
 ```text
 watershed-medical-image-segmentation/
 ├── watershed_segmentation_medical.ipynb
@@ -67,8 +68,7 @@ watershed-medical-image-segmentation/
     ├── original.png
     ├── otsu_failure.png
     └── watershed_result.png
-
-
+```
 ---
 
 ## Technologies
