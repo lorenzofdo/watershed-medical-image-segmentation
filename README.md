@@ -84,4 +84,3 @@ watershed-medical-image-segmentation/
 
 - Lorenzo Ferrer de Oya
 - Ariel Núñez Valencia
-- Data Science and Artificial Intelligence
