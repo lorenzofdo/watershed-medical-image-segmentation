@@ -59,14 +59,14 @@ Marker-controlled Watershed:
 ---
 
 ## Project Structure
+```text
 watershed-medical-image-segmentation/
-│
 ├── watershed_segmentation_medical.ipynb
 ├── requirements.txt
-├── images/
-│ ├── original.png
-│ ├── otsu_failure.png
-│ ├── watershed_result.png
+└── images/
+    ├── original.png
+    ├── otsu_failure.png
+    └── watershed_result.png
 
 
 ---
